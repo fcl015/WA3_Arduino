@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <loop>false</loop>
+  <repeat_times>1</repeat_times>
+  <repeat_period>500</repeat_period>
+  <frames_list>
+    <frame name="sensor_node">
+      <payload>7E001C10010013A20040AD639FFFFE0000530102030405060000000000000ADB</payload>
+    </frame>
+    <frame name="actuator_node">
+      <payload>7E001C10010013A20040AD639FFFFE0000560007080000000000000000000ADE</payload>
+    </frame>
+    <frame name="weather_node">
+      <payload>7E001C10010013A20040AD639FFFFE0000430100020304050607080900000AD3</payload>
+    </frame>
+  </frames_list>
+</data>
